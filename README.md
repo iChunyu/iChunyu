@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iChunyu&theme=onedark&show_icons=true&include_all_commits=true">](https://metrics.lecoq.io/iChunyu?template=classic)
+
+I'm Chunyu Xiao, a PhD student at [HUST](https://www.hust.edu.cn/), China.
+
+- :man_student: Studying on spacecraft dynamics and control.
+- :computer: Wroking with MATLAB, Simulink and a little bit Python.
+- :zany_face: Interested in Git, LaTeX, Linux.
+- :badminton: Like playing badminton.
+- :house: My simple [homepage](https://ichunyu.readthedocs.io/zh_CN/latest/).
