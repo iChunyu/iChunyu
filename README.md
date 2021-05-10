@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm Chunyu Xiao, a PhD student at [HUST](https://www.hust.edu.cn/), China.
 
-- :man_student: Studying on spacecraft dynamics and control.
+- :man_student: Studying spacecraft dynamics and control.
 - :computer: Wroking with MATLAB, Simulink and a little bit Python.
 - :zany_face: Interested in Git, LaTeX, Linux.
 - :badminton: Like playing badminton.
-- :house: My simple [homepage](https://ichunyu.readthedocs.io/zh_CN/latest/).
+- :house: My simple [homepage](https://ichunyu.github.io/).
