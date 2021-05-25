@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iChunyu&theme=vue&show_icons=true&include_all_commits=true">](https://metrics.lecoq.io/iChunyu?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iChunyu&theme=vue&show_icons=true&include_all_commits=true&count_private=true">](https://metrics.lecoq.io/iChunyu?template=classic)
 
 I'm Chunyu Xiao, a PhD student at [HUST](https://www.hust.edu.cn/), China.
 
