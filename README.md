@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iChunyu&theme=vue&show_icons=true&include_all_commits=true&count_private=true">](https://metrics.lecoq.io/iChunyu?template=classic)
 
-I'm Chunyu Xiao, a PhD student from [HUST](https://www.hust.edu.cn/), China.
+I'm Chunyu, a student at HUST.
 
 - :man_student: I'm studying spacecraft dynamics and control.
 - :computer: I'm wroking mainly with MATLAB and Simulink.
-- :zany_face: I'm interested in Git, LaTeX, Linux.
+- :zany_face: I'm interested in Git and LaTeX.
 - :badminton: I like playing badminton.
 - :house: I have a simple [blog](https://ichunyu.github.io/).
 
